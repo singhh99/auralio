@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6ef19631-7101-4cb4-8fb5-7ea50362642e" name="Combycut">
+        <fileTransfer rootFolder="/var/www/html/" accessType="SFTP" host="3.139.125.43" port="22" sshConfigId="c2998013-3fa5-4aa3-8365-077acbab17a8" sshConfig="ubuntu@3.139.125.43:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

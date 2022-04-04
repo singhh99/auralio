@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "796396740416",
+    "firebase_url": "https://comby-cut-vendor.firebaseio.com",
+    "project_id": "comby-cut-vendor",
+    "storage_bucket": "comby-cut-vendor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796396740416:android:e9fb64b0a56dd1ec48a4a5",
+        "android_client_info": {
+          "package_name": "com.bbtpl.salon.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796396740416-3lunb61pv19h6kpk2gb6snm80ce8hv2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bbtpl.salon.vendor",
+            "certificate_hash": "2d2b6bfff8dfb7f93a8e0f906ecae2808d504c05"
+          }
+        },
+        {
+          "client_id": "796396740416-7s0fgng2o5inc3qen6b3elfnnu4ngblk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXaWH9wlD5hcEc6pxhE8ZjsinzujY6aWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796396740416-7s0fgng2o5inc3qen6b3elfnnu4ngblk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
