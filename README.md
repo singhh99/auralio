@@ -81,3 +81,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 "# auralio" 
 "# auralio" 
 "# auralio" 
+
+
+
+
+It is hosted on https://oneticktechnologies.com/combycut
+And its Apk is available on PlayStore named "AURALIO"
